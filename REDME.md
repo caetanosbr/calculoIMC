@@ -1,7 +1,7 @@
 <h1 align="center"> Calculo de IMC </h1>
 
 <p align="center">
-  <img alt="imagem" src=./assets/calculoIMC.png>
+  <img alt="imagem" src=./assets/CalculoIMC.png>
 </p>
 
 ---
